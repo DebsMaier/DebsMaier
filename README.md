@@ -1,19 +1,18 @@
-# Fala Dev!! Tudo beleza ?
+# Salvee!! Tudo bão ?
 
-- 👨🏽‍💻 -  Eu me chamo [Paulo Pelaez](https://www.linkedin.com/in/paulopelaez);
-- 💜 - Atualmente sou Founder & CTO na [QueryWork](https://www.linkedin.com/company/querywork);
-- 🦄 - Somos uma Startup que contrata os melhores talentos techs para empresas referência de mercado;
-- 💸 - Constantemente temos vagas para:
-- - **Frontend**: NextJs + ReactJ + ChakraUI + TypeScript;
-- - **Backend**: NestJs + PrismaIO + PostgreSQL;
-- - Se alguma fez sentido pra você, [entre em contato conosco](https://www.linkedin.com/company/querywork).
+- 👨🏽‍💻 -  Eu me chamo [Débora Maier](https://www.linkedin.com/in/debora-maier/);
+- 💜 - Atualmente sou Tech Recruiter e Talent Acquisition e atuo como freelancer para diversas empresas;
+- 💸 - Constantemente trabalho com vagas para:
+- - **Frontend**: NextJs, ReactJs, TypeScript, entre outros;
+- - **Backend**: NestJs, PostgreSQL, MongoDB, entre outros;
+- - Se alguma fez sentido pra você, [me manda um invite e vamos bater um papo :D]().
 
 ##
 
 <div align="center">
-  <a href="https://github.com/paulopelaez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulopelaez&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopelaez&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <a href="https://github.com/DebsMaier">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DebsMaier&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebsMaier&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
