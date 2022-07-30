@@ -1,7 +1,7 @@
 # Salvee!! Tudo bão ?
 
-- 👨🏽‍💻 -  Eu me chamo [Débora Maier](https://www.linkedin.com/in/debora-maier/);
-- 💜 - Atualmente sou Tech Recruiter e Talent Acquisition e atuo como freelancer, trabalhando em vagas como: 
+- -  Eu me chamo [Débora Maier](https://www.linkedin.com/in/debora-maier/);
+- - Atualmente sou Tech Recruiter e Talent Acquisition e atuo como freelancer, trabalhando em vagas como: 
 - - **Frontend**: NextJs, ReactJs, TypeScript, entre outros;
 - - **Backend**: PostgreSQL, MongoDB, entre outros;
 - - **Fullstack**, **QA**, **PO**, **PM**...;
@@ -9,10 +9,7 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/DebsMaier">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DebsMaier&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebsMaier&layout=compact&langs_count=7&theme=midnight-purple"/>
+
 </div>
 
 <div align="center" style="display: inline_block"><br>
