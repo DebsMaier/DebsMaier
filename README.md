@@ -3,7 +3,7 @@
 - -  Eu me chamo [Débora Maier](https://www.linkedin.com/in/debora-maier/);
 - - Atualmente sou Tech Recruiter e Talent Acquisition e atuo como freelancer, trabalhando em vagas como: 
 - - **Frontend**: NextJs, ReactJs, TypeScript, entre outros;
-- - **Backend**: PostgreSQL, MongoDB, entre outros;
+- - **Backend**: Java, Phyton, PostgreSQL, MongoDB, entre outros;
 - - **Fullstack**, **QA**, **PO**, **PM**...;
 - - Me manda um [invite](https://www.linkedin.com/in/debora-maier/) e vamos bater um papo :D.
 
